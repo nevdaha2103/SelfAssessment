@@ -14,6 +14,7 @@ This _knowledge assessment_ can be used as an automated tool for **tracking** an
 - [Multi-paradigm programming](Skills/Paradigms.md)
 - [Databases](Skills/Databases.md)
 - [Architecture](Skills/Architecture.md)
+- [C++](Skills/CPP.md)
 
 ## How to use
 

@@ -62,9 +62,9 @@
   - Two-dimensional arrays: 🖐️ used
   - C-style rows: 🎓 known
   - Class std::string_view: 🎓 known
-  - Pointers: 🖐️ used
-  - Null pointers: 🖐️ used
-  - Pointers and arrays: 🖐️ used
+  - Pointers: 🎓 known
+  - Null pointers: 🎓 known
+  - Pointers and arrays: 🎓 known
   - Address arithmetic and array indexing: 👂 heard
   - C-style string character constants
   - Dynamic memory allocation: 👂 heard
@@ -93,7 +93,7 @@
   - Vector capacity
   - Error handling, cerr and exit()
   - assert and static_assert
-  - Command line arguments
+  - Command line arguments: 👂 heard
 
 - Relationships between objects in C++
   - Types of relationships between objects: 👂 heard

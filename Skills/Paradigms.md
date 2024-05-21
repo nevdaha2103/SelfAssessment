@@ -1,52 +1,52 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
-  - Reactive programming
-  - Functional-reactive (FRP)
-  - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
-  - Lambda calculus
-  - Black box
-  - Information hiding
-  - Aspect-oriented programming
-  - Anemic domain model
-  - Class composition
+- Procedural programming
+- Imperative programming
+- Structured programming
+- Non-structured programming
+- Functional programming
+- Prototype-based programming
+- Object-oriented programming
+- Object-based programming
+- Generic programming
+- Concurrent computing
+- Asynchronous programming: 🎓 known
+- Parallel programming: 🎓 known
+- Reactive programming: 🎓 known
+- Functional-reactive (FRP)
+- Automata-based programming
+- Domain-specific languages
+- Multi-paradigm programming
+- Metaprogramming: 👂 heard
+- Actor model
+- Lambda calculus
+- Black box
+- Information hiding
+- Aspect-oriented programming
+- Anemic domain model
+- Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
+  - Constructor: 🎓 known
+  - Operator `new`: 👂 heard
+  - Static method: 👂 heard
+  - Method: 🖐️ used
+  - Async method: 👂 heard
+  - Getters, Setters: 🖐️ used
+  - Public fields: 👂 heard
+  - Private fields: 👂 heard
+  - Field declarations: 👂 heard
+  - Inheritance: 🎓 known
+  - Parent class: 🎓 known
+  - Polymorphism: 👂 heard
+  - Abstract class: 🎓 known
+  - Interface: 👂 heard
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🎓 known
+  - Object form: 👂 heard
   - Instance
   - Introspection
-  - Reflection
+  - Reflection: 👂 heard
   - The diamond problem
 - GRASP
   - Information expert
@@ -64,17 +64,17 @@
   - Interface segregation principle (ISP)
   - Dependency inversion principle (DIP)
 - Patterns
-  - Singleton
+  - Singleton: 👂 heard
   - Factory Method
   - Abstract Factory
   - Adapter
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy: 🎓 known
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator: 👂 heard
   - State
   - Bridge
   - Builder
@@ -86,6 +86,6 @@
   - Memento
   - Template Method
   - Visitor
-  - Reactor
+  - Reactor: 👂 heard
   - Active object
   - Delegation

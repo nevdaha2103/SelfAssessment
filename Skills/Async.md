@@ -22,7 +22,7 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks: 👂heard
   - Callback-last-error-first
   - Thenable
   - Promise

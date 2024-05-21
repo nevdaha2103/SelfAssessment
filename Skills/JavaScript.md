@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object`
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Object`: 👂 heard
+  - `Function`: 🖐️ used
+  - `Boolean`: 👂 heard
+  - `Number`: 🖐️ used
   - `BigInt`
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined`
-  - `null`
+  - `String`: 👂 heard
+  - `Symbol`: 👂 heard
+  - `Infinity`: 👂 heard
+  - `NaN`: 👂 heard
+  - `undefined`: 👂 heard
+  - `null`: 👂 heard
   - `this`
   - `instanceof`
   - `...spread`
   - `...rest`
-  - `typeof`
+  - `typeof`: 👂 heard
   - Destructuring
   - Generators
-  - Iterators
+  - Iterators: 👂 heard
   - Async generator
   - Async iterator
   - Chaining
@@ -32,16 +32,16 @@
   - Getters and setters
   - `__proto__`
   - `prototype`
-  - Equality operators
-  - Logical operators
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
   - Logical Assignment
-  - Bitwise operators
-  - Ternary operator
-  - `void`
+  - Bitwise operators: 👂 heard
+  - Ternary operator: 👂 heard
+  - `void`: 👂 heard
   - `yield`
   - `await`
   - Template literal
-  - Strict mode
+  - Strict mode: 🖐️ used
   - Hoisting
   - `delete`
   - `in`
@@ -59,28 +59,28 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if`
-  - `while`
-  - `do..while`
-  - `for`
-  - `for..in`
-  - `for..of`
-  - `for await`
-  - `throw`
-  - `break`
-  - `continue`
-  - `import`
-  - `export`
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 👂 heard
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
+  - `for await`🖐️ used
+  - `throw`: 👂 heard
+  - `break`: 👂 heard
+  - `continue`: 👂 heard
+  - `import`: 🖐️ used
+  - `export`👂 heard
   - `label`
-  - `try..catch`
-  - `switch`
-  - `class`
-  - `extends`
-  - `with`
-  - `new`
+  - `try..catch`: 👂 heard
+  - `switch`: 👂 heard
+  - `class`: 👂 heard
+  - `extends`: 👂 heard
+  - `with`: 🎓 known
+  - `new`: 🎓 known
 - Functions
-  - Arrow function
-  - Async function
+  - Arrow function: 🖐️ used
+  - Async function: 👂 heard
   - Function declaration
   - Function expression
   - Default parameters
@@ -90,32 +90,32 @@
   - `Function.prototype.apply`
   - `return`
 - Data structures
-  - `Array`
-  - `Map`
-  - `Set`
+  - `Array`: 👂 heard
+  - `Map`: 👂 heard
+  - `Set`: 👂 heard
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`
+  - `Proxy`:👂 heard
   - `RegExp`
   - `Date`
   - `Math`
   - `Reflect`
   - `Error`
   - `Atomics`
-  - `JSON`
+  - `JSON`: 👂 heard
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise`:👂 heard
   - `console`
   - Timers
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js: 👂 heard
   - npm
   - prettier
   - MDN

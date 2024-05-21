@@ -65,12 +65,12 @@
   - `for`: 🖐️ used
   - `for..in`: 🖐️ used
   - `for..of`: 🖐️ used
-  - `for await`🖐️ used
+  - `for await`: 🖐️ used
   - `throw`: 👂 heard
   - `break`: 👂 heard
   - `continue`: 👂 heard
   - `import`: 🖐️ used
-  - `export`👂 heard
+  - `export`: 👂 heard
   - `label`
   - `try..catch`: 👂 heard
   - `switch`: 👂 heard
@@ -99,7 +99,7 @@
   - Mixins
   - `Object.assign`
 - Standard classes and namespaces
-  - `Proxy`👂 heard
+  - `Proxy`: 👂 heard
   - `RegExp`
   - `Date`
   - `Math`
